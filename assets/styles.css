@@ -62,6 +62,46 @@
     position: absolute;
 }
 
+.growkids{
+    color: #FFF;
+    font-family: Poppins;
+    font-size: 50px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    padding: 101px 116px;
+    margin-bottom: 59px;
+}
+.conteudo{
+    width: 752px;
+    height: 233px;
+    flex-shrink: 0;
+    margin-left: 203px;
+   
+}
+
+
+.texto{
+    color: #FFF;
+    font-family: Poppins;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    padding-left: 30px;
+    
+   
+
+}
+
+.astro{
+    width: 424px;
+    height: 422px;
+    flex-shrink: 0;
+    background: url(/img/astronauta.png),lightgray 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
 .bg{
     background: rgba(220, 6, 44, 0.70);
     width: 100%;
